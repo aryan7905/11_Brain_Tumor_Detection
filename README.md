@@ -1,4 +1,4 @@
-🧠 Brain Tumor Detection from MRI Images using CNNs
+🧠 <span style="color:#4B8BBE;">Brain Tumor Detection from MRI Images using CNNs</span>
 
 This project leverages Convolutional Neural Networks (CNNs) with TensorFlow to detect brain tumors from MRI images. It covers data preprocessing, model training, evaluation, and visualization. Perfect for deep learning and medical imaging enthusiasts! 🩺💡
 📂 Dataset Structure

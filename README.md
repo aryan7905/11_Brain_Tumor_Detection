@@ -122,7 +122,8 @@ The project expects the following directory structure:
 ## 📊 Output Visualizations
 
 The script generates several beautiful visualization outputs:
-![{8102DBB4-752A-4667-9959-2C85C400777A}](https://github.com/user-attachments/assets/2c0541b1-c2b8-4ae4-8573-9dc6dcc6c9b9)
+![{C69EB81D-E0C8-49B2-8CEC-B3F5F9EB402B}](https://github.com/user-attachments/assets/24d07793-1d73-4892-8a9a-a674d094021b)
+
 
 
 ### 🎨 What You'll See:

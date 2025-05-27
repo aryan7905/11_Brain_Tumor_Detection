@@ -147,6 +147,9 @@ The script generates several beautiful visualization outputs:
 ## 🎯 Model Performance
 
 Evaluate your model's performance through multiple metrics:
+![{54298D47-FB1A-48B1-9948-A44D5F0094B3}](https://github.com/user-attachments/assets/347bdfd7-cec0-4132-8514-d1c691e8fef6)
+![{62DE3BA1-F55E-4776-A8FC-74BD35E2E02E}](https://github.com/user-attachments/assets/74512b3f-f472-4ade-a811-5c9e8abc5d72)
+
 
 ### 📊 Performance Indicators:
 - 📈 **Training/Validation Curves**: Monitor overfitting and convergence

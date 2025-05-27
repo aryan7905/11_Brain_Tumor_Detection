@@ -64,7 +64,8 @@ The project expects the following directory structure:
 ## 🏗️ Model Architecture
 
 <div align="center">
-![{DE9022BC-958A-4CC5-ABF4-FFF11480BAC4}](https://github.com/user-attachments/assets/22657185-238b-4e51-ba68-86ff0f5f289f)
+![{40FB268D-EACA-476F-9C89-8B8532BFB832}](https://github.com/user-attachments/assets/13e4ba10-15d7-4c30-9356-0507dae07af2)
+
 
 ### 🧠 Neural Network Structure
 
